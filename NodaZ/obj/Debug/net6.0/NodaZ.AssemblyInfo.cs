@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NodaZ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f8d5bb969ebb1ff2c11784c83410a400bf8d005")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20f0ae82026bacd46798313830a2d7aa5d8e7f25")]
 [assembly: System.Reflection.AssemblyProductAttribute("NodaZ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NodaZ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
