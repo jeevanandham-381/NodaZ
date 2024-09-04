@@ -20,3 +20,7 @@ obj/
 
 # Ignore node_modules directory (for JavaScript projects)
 node_modules/
+
+# Ignore the obj directory (build outputs)
+NodaZ/obj/
+
